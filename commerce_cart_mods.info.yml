@@ -1,0 +1,5 @@
+name: Commerce Cart Mods
+type: module
+description: "Redirects to checkout on add item. Add user details to checkout form."
+package: default
+core: 8.x
